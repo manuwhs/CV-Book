@@ -1,0 +1,370 @@
+,full_name,origin,birthday,email,phone,current_studies,start_year,pdf_exists
+0,Alejandro Tejero Castellanos,TD15,11/06/1993,alexjandro9311@gmail.com,618496324.0,grado en ingeniería en tecnologías industriales,2011.0,True
+1,Alvar Palencia Dieguez,TD14,11/06/1990,100080009@alumnos.uc3m.es,680945050.0,grado en ingeniería en tecnologías industriales,2011.0,True
+2,Cástor González Gil,TD14,08/09/1990,cgg1990tgn@gmail.com,652037898.0,ingeniería superior industrial,2010.0,True
+3,Daniel Álvaro González,TD14,26/06/1993,dalvaroglez@gmail.com,656258378.0,grado en ingeniería en tecnologías de telecomunicación,2011.0,True
+4,Daniel Castillo Gutiérrez,TD14,09/11/1990,100079038@alumnos.uc3m.es,616540391.0,ingeniería superior industrial,2010.0,True
+5,David Espinosa Adams,TD14,09/08/1986,100073219@alumnos.uc3m.es,627167017.0,grado en ingeniería en tecnologías de telecomunicación,2011.0,True
+6,David Rubio Rodriguez,TD14,19/12/1992,d.rubio1992@gmail.com,630810583.0,grado en ingeniería en tecnologías de telecomunicación,2011.0,True
+7,Eduardo Gómez Suárez,TD14,07/04/1993,gusogs93@gmail.com,653616684.0,grado en ingeniería en tecnologías industriales,2011.0,True
+8,Fernando Martín Prieto,TD14,10/03/1992,fernando.martin.prieto@hotmail.com,615487328.0,grado en ingeniería en tecnologías industriales,2011.0,True
+9,Guillermo Moreno Fernández,TD14,24/08/1991,100276485@alumnos.uc3m.es,606423373.0,ingeniería superior industrial,2010.0,True
+10,Isabel Lopez Estrada,TD14,13/08/1992,isa.lopezestrada@gmail.com,661836866.0,grado en ingeniería en tecnologías de telecomunicación,2011.0,True
+11,Jaime Sanchez Solana,TD15,25/08/1993,100290674@alumnos.uc3m.es,646663897.0,grado en ingeniería en tecnologías industriales,2011.0,True
+12,Javier Rivas,TD14,23/12/1991,javi91r@hotmail.com,627156804.0,grado en ingeniería en tecnologías de telecomunicación,2011.0,True
+13,Jorge Perez Valhondo,TD14,02/06/1995,ponotiosea21@gmail.com,636429925.0,grado en ingeniería en tecnologías industriales,2013.0,True
+14,Jorge Saucedo Pavón,TD14,09/12/1992,jorge15saucedo@gmail.com,618396110.0,grado en ingeniería en tecnologías de telecomunicación,2011.0,True
+15,Jorge Tinajo Vara,TD14,23/02/1987,jorgetinajo@gmail.com,616299402.0,grado en ingeniería mecánica,2011.0,True
+16,Juan de Toro,TD14,03/01/1991,detoro91@gmail.com,685387889.0,grado en ingeniería en tecnologías de telecomunicación,2011.0,True
+17,Juan Pérez Pérez,TD14,20/01/1993,juan.prez.prez.0@gmail.com,650830320.0,grado en ingeniería aeroespacial,2011.0,True
+18,Luis Alberto Henche Somacarrera,TD14,22/05/1993,luishenche@hotmail.com,693609469.0,grado en ingeniería mecánica,2011.0,True
+19,Miguel Gonzalez Adrados,TD14,12/04/1990,100079629@alumnos.uc3m.es,662054914.0,ingeniería superior industrial,2010.0,True
+20,Pablo Moreno Muñoz,TD14,04/09/1991,100276782@alumnos.uc3m.es,619879285.0,grado en ingeniería en tecnologías de telecomunicación,2011.0,True
+21,Paula Giménez Mínguez,TD14,18/03/1994,paulis180394@hotmail.es,695997983.0,grado en ingeniería biomédica,2011.0,True
+22,Paula Mesa Macías,TD14,03/08/1986,srapau@gmail.com,675094330.0,ingeniería superior de telecomunicaciones,2010.0,True
+23,Raúl de la Torre Navarro,TD15,05/05/1992,100282530@alumnos.uc3m.es,606838243.0,grado de ingeniería de sistemas audiovisuales,2012.0,True
+24,Rocio Montenegro Ramírez,TD14,30/09/1992,rocio.montenegro.ramirez@gmail.com,627804311.0,grado en ingeniería en tecnologías industriales,2011.0,True
+25,Zhihao Qu,TD14,03/07/1990,zhihao_qu@hotmail.com,605010056.0,grado en ingeniería en tecnologías industriales,2011.0,True
+26,Emiliano Lacoste Sánchez,EBEC13,24/08/1995,emilianolacoste@gmail.com,686662992.0,grado en ingeniería mecánica,2010.0,True
+28,Carlos Serrano Hernández,EBEC15,03/03/1993,carlos12svp@gmail.com,649319820.0,máster en ingeniería industrial,2015.0,True
+29,Elena Rodríguez Rodríguez,EBEC13,27/04/1990,NULL,637165709.0,grado en ingeniería en tecnologías de telecomunicación,2011.0,True
+30,Jesús García Martínez,EBEC13,NULL,jesusgarciah@hotmail.com,663599377.0,grado en ingeniería electrónica industrial y automática,2014.0,True
+31,Miguel Díez-ochoa Díez,EBEC13,NULL,migueldiezochoa@ovi.com,622683558.0,ingeniería superior industrial,2010.0,True
+32,Celia Jiménez López,EBEC13,NULL,celiajlopez@gmail.com,635154658.0,grado en ingeniería eléctrica,2010.0,True
+33,Guido Fioravantti,EBEC13,NULL,guido.fioravantti@gmail.com,630067651.0,grado en ingeniería en tecnologías de telecomunicación,2011.0,True
+34,Alberto Lopez García,EBEC13,26/11/1988,Alberto_lg18@hotmail.com,616241249.0,ingeniería superior industrial,2010.0,True
+35,Alberto Manzanero Rubio,EBEC13,NULL,albertomanru93@@gmail.com,659312659.0,grado en ingeniería mecánica,2010.0,True
+37,Marina Cañadas Ortega,EBEC13,20/10/1995,marina.canadas@hotmail.com,657035208.0,grado en ingeniería biomédica,2011.0,True
+38,Hector de Matias Jimenez,EBEC14,12/03/1994,100305006@alumnos.uc3m.es,645099225.0,grado en ingeniería en tecnologías industriales,2012.0,True
+39,Santiago Marqués García,EBEC13,16/08/1990,santiago.marques.garcia@gmail.com,697686932.0,grado en ingeniería biomédica,2010.0,True
+41,Miguel Descalzo Casado,EBEC13,28/06/1995,migdc95@gmail.com,645238239.0,grado en ingeniería mecánica,2011.0,True
+42,Adrián Pérez Rodríguez de las Conchas,EBEC14,20/01/1993,100305245@alumnos.uc3m.es,620600764.0,grado en ingeniería en tecnologías de telecomunicación,2012.0,True
+43,Tomás Blanco González,EBEC13,01/10/1995,tomasblanco95@gmail.com,636006600.0,grado en ingeniería eléctrica,2011.0,True
+44,Daniel Fernández Delgado,EBEC13,04/12/1995,sikem7@hotmail.com,648247208.0,grado en ingeniería electrónica industrial y automática,2010.0,True
+45,Jesús Yela Moreno,EBEC13,29/10/1986,yelamoreno99@gmail.com,620198602.0,grado en ingeniería eléctrica,2009.0,True
+46,Miguel Sánchez Rodas,EBEC13,26/06/1990,100275091@alumnos.uc3m.es,618140658.0,grado en ingeniería en tecnologías de telecomunicación,2009.0,True
+47,Daniel Expósito Jiménez,EBEC13,07/10/1993,dani.dej@hotmail.es,697428718.0,grado en ingeniería aeroespacial,2009.0,True
+48,Sergio Rodríguez Hervás,EBEC13,30/05/1991,sergiorodriguezhervas@yahoo.es,690033606.0,grado en ingeniería en tecnologías de telecomunicación,2009.0,True
+49,Alejandro Labrador Toledo,EBEC13,02/01/1989,alexlabradortoledo89@gmail.com,628448799.0,grado en ingeniería mecánica,2009.0,True
+50,Alejandro Díaz Gómez,EBEC13,30/09/1991,alejandrodzgz@gmail.com,646676235.0,grado en ingeniería mecánica,2009.0,True
+51,Álvaro Sánchez Villar,EBEC13,22/06/1992,alvaro.sanchez.villar@gmail.com.,639292829.0,grado en ingeniería aeroespacial,2009.0,True
+52,Pedro Alejandro Isabel García,EBEC13,13/07/1988,pedroisabelgarcia@hotmail.es,687460554.0,grado en ingeniería mecánica,2010.0,True
+54,Alberto Abad Sanz,EBEC13,26/02/1990,albertoabad.34@gmail.com,676552934.0,grado en ingeniería mecánica,2010.0,True
+55,Francisco Javier García Manzano,EBEC15,24/02/1993,unico.javier@gmail.com,628768016.0,grado en ingeniería de sistemas de comunicaciones,2013.0,True
+56,Jesús Valdés García,EBEC13,13/07/1990,valdesgarciajesus@gmail.com,646146472.0,máster en ingeniería industrial,2010.0,True
+57,María Jimena Arranz Herrera,EBEC13,17/07/1990,jimena.arranz@gmail.com,690310645.0,grado en ingeniería en tecnologías de telecomunicación,2009.0,True
+58,Jose Manuel Rey Legidos,EBEC13,NULL,rey.josemanuel@yahoo.es,670658520.0,grado en ingeniería biomédica,2010.0,True
+59,Daniel Muñoz Agudo,EBEC13,17/01/1993,Daniel17017@gmail.com,697376738.0,grado en ingeniería mecánica,2009.0,True
+60,Miguel Ángel de Miguel Paraíso,EBEC13,NULL,midemig@gmail.com,639872777.0,grado en ingeniería electrónica industrial y automática,2010.0,True
+61,Rubén Guillermo Jimeno del Rincón,EBEC13,07/02/1995,100315506@alumnos.uc3m.es,654627893.0,grado en ingeniería mecánica,2013.0,True
+62,Víctor Ríos Rebollo,EBEC13,24/07/1995,vrios724@gmail.com,608850923.0,grado en ingeniería mecánica,2013.0,True
+63,Angy Karina Cisneros Soto,EBEC13,22/11/1994,100316150@alumnos.uc3m.es,655184833.0,grado en ingeniería informática,2014.0,True
+64,Karen Lizet Alvitez Miranda,EBEC13,16/12/1992,karen.alvitez@gmail.com,979998632.0,grado en ingeniería en tecnologías industriales,2010.0,True
+65,Wenwen Xia,EBEC13,01/04/1994,100315144@alumnos.uc3m.es,675861567.0,doble grado en ingeniería informática y administración de empresas,2012.0,True
+66,Jesús de Luis,EBEC13,06/08/1988,jdeluisserrano@gmail.com,650366637.0,grado en ingeniería en tecnologías de telecomunicación,2008.0,True
+67,Víctor Sacristán Robles,EBEC13,NULL,vsacrisr@gmail.com,607371595.0,grado en ingeniería en tecnologías industriales,2009.0,True
+68,Belén Carrión Recio,EBEC13,03/12/1993,belle.193@hotmail.com,628337091.0,grado en ingeniería informática,2010.0,True
+69,Diego Jiménez Ramírez,EBEC13,04/05/1995,diego.jimr@gmail.com,680745343.0,grado en ingeniería en tecnologías industriales,2011.0,True
+70,Pablo Pérez Martínez,EBEC13,NULL,PELABLE91@GMAIL.COM,636743395.0,grado en ingeniería electrónica industrial y automática,2009.0,True
+71,Luis Miguel Gago Martínez,EBEC13,23/01/1995,luismiguelgagomartinez@gmail.com,666171499.0,grado en ingeniería informática,2011.0,True
+72,Tamara Lucio Martín,EBEC13,NULL,tamaralumar@gmail.com,600322129.0,grado en ingeniería en tecnologías industriales,2010.0,True
+73,Enrique Cabrera Fabián,EBEC13,13/08/1994,Kaicu_enriquecido@hotmail.com,651343213.0,grado en ingeniería en tecnologías de telecomunicación,2010.0,True
+74,Alejandrina Bernal Basurto,EBEC13,NULL,ale.bernal.basurto@gmail.com,664586752.0,grado en ingeniería en tecnologías industriales,2009.0,True
+75,Sainz Carreño; Álvaro,EBEC13,NULL,alvaro.sainz@alumnos.uc3m.es,628993172.0,grado en ingeniería en tecnologías industriales,2010.0,True
+77,Andrés de Vega Guerra,EBEC13,21/11/1989,andresdvg@gmail.com,-1.0,grado en ingeniería en tecnologías industriales,2009.0,True
+78,Asier Garcia Plaza,SC14,13/07/1993,asier.gapa@gmail.com,660585797.0,grado en ingeniería informática,2011.0,True
+79,Miguel de la Iglesia Valls,EBEC13,06/07/1993,100291075@alumnos.uc3m.es,628656049.0,grado en ingeniería electrónica industrial y automática,2010.0,True
+80,Cesar Hurtado Juarez,EBEC13,22/06/1988,hurtado.juarez@gmail.com,659055318.0,ingeniería superior industrial,2009.0,True
+81,Rodrigo López Maltese,EBEC14,18/11/1994,rodrigo_naval94@hotmail.com,661107109.0,grado en ingeniería electrónica industrial y automática,2014.0,True
+83,Helena Covarrubias Bermejo,EBEC13,28/08/1993,lena.covax.berme@gmail.com,655541221.0,grado en ingeniería mecánica,2010.0,True
+84,Jaime Cerrolaza Sanz,EBEC13,09/12/1989,jaime.cerrolaza.sanz@gmail.com,661334576.0,ingeniería superior industrial,2009.0,True
+85,Javier Gañán Suárez,EBEC13,NULL,j.ganan.s@gmail.com,696179596.0,grado en ingeniería mecánica,2009.0,True
+86,Laura Martín Guio,EBEC13,22/04/1991,laura.martin.guio225@gmail.com,617246544.0,grado de ingeniería de sistemas audiovisuales,2009.0,True
+87,María Silos Viu,EBEC13,09/07/1992,maria_silos@hotmail.com,618111912.0,grado en ingeniería biomédica,2009.0,True
+88,Miriam Sierra Rodriguez,EBEC13,28/10/1990,miriamsierrarodriguez@gmail.com,605087225.0,ingeniería superior industrial,2008.0,True
+89,Nadia Ailén Ferreyra,EBEC13,12/12/1991,nadia.ferreyra12@gmail.com,627281715.0,grado en ingeniería en tecnologías industriales,2010.0,True
+90,Pablo Camarillo Garvia,EBEC13,18/05/1992,pablo.camarillo@gmail.com,608999258.0,grado en ingeniería telemática,2009.0,True
+91,Pedro Gray Núñez,EBEC13,11/12/1992,NULL,630729223.0,grado en ingeniería electrónica industrial y automática,2009.0,True
+92,Pedro Silos Viu,EBEC13,17/07/1991,psilos.91@gmail.com,679879862.0,grado en ingeniería mecánica,2009.0,True
+93,Rubén Sevilleja Villamarín,EBEC13,27/05/1992,rsv_270592@hotmail.com,664328143.0,grado en ingeniería mecánica,2009.0,True
+94,Ito Gonzales; Tadashi.,EBEC13,26/03/1990,tady.yoo@gmail.com,691266220.0,grado en ingeniería en tecnologías industriales,2009.0,True
+96,Viña Berlanga Cristina,EBEC13,13/01/1992,cristina.vina@alumnos.uc3m.es,634436443.0,grado en ingeniería telemática,2009.0,True
+97,Ortega Pérez Alejandro,EBEC13,26/07/1993,ortegaperez5@hotmail.com,670448595.0,grado en ingeniería electrónica industrial y automática,2013.0,True
+98,Álvaro Fernández Ruiz,EBEC13,11/03/1991,alvy11031991@gmail.com,645410812.0,grado en ingeniería mecánica,2010.0,True
+99,Santiago Morata Ignacio,EBEC13,09/06/1994,100307101.alumnos@gmail.com,696246691.0,grado en ingeniería mecánica,2010.0,True
+100,Azuara Grande Luis Santiago,EBEC13,04/01/1995,100316333@alumnos.uc3m.es,654017817.0,grado en ingeniería eléctrica,2013.0,True
+101,Calvo Soto Daniel,EBEC13,20/01/1995,danielcalvo95@hotmail.com,656660585.0,grado en ingeniería eléctrica,2011.0,True
+102,Mateo Pérez Ricardo José,EBEC13,26/07/1994,ricardomateoperez@hotmail.es,649883062.0,grado en ingeniería mecánica,2010.0,True
+103,Herrera Martínez Héctor Valentín,EBEC13,NULL,hvherrera.hh@gmail.com,696539748.0,ingeniería superior industrial,2008.0,True
+104,Guillermo Bielsa López,EBEC13,26/10/1992,gblesguillermo@gmail .com,649656718.0,grado en ingeniería en tecnologías de telecomunicación,2009.0,True
+105,Isaac Tejada González,EBEC13,11/07/1993,isaac.tej.gon@gmail.com,661442444.0,grado en ingeniería en tecnologías industriales,2010.0,True
+106,Velix Moreno Jimmy Hugo,EBEC13,31/07/1992,jimmy82_92@hotmail.com,695318841.0,grado en ingeniería en tecnologías industriales,2010.0,True
+107,Jorge Frutos de Mingo,EBEC13,NULL,jorfru.94@gmail.com,629536723.0,grado en ingeniería electrónica industrial y automática,2010.0,True
+108,José María Escolar García,EBEC13,NULL,cvgmaster2001@gmail.com,607338719.0,grado en ingeniería en tecnologías de telecomunicación,2009.0,True
+109,Maria Busquets Ferrer,EBEC13,09/03/1994,mariabqfr@gmail.com,697935236.0,grado en ingeniería en tecnologías industriales,2009.0,True
+110,Paula Mesa Macías,EBEC13,NULL,srapau@hotmail.com,675094330.0,ingeniería superior de telecomunicaciones,2008.0,True
+111,Reyes Muñoz Vergara,EBEC14,10/08/1991,reyesmunozvergara@gmail.com,670994818.0,grado en ingeniería eléctrica,2011.0,True
+112,Miguel Javier Martín-roldán,EBEC14,30/09/1995,miguel.martinroldan@gmail.com,692493839.0,grado en ingeniería mecánica,2013.0,True
+113,Emilio Martinez-baron Soyer,EBEC14,08/10/1995,emimbs95@gmail.com,680305050.0,grado en ingeniería mecánica,2013.0,True
+114,Hind Ait Oukharro,EBEC14,16/11/1988,hunayda@hotmail.es,600761390.0,máster en ingeniería industrial,2011.0,True
+115,Alberto Sancho,EBEC14,NULL,100317645@alumnos.uc3m.es,608060785.0,grado en ingeniería mecánica,2013.0,True
+116,Jorge Lucena,EBEC14,09/02/1990,100080733@alumnos.uc3m.es,695802155.0,grado en ingeniería informática,2011.0,True
+117,Bogdan Mihai Nedelcu,EBEC14,11/11/1993,bogdanned32@gmail.com,663428599.0,grado en ingeniería aeroespacial,2011.0,True
+119,Ana Campos Ortega,EBEC14,14/06/1995,100318663@alumnos.uc3m.es,696943427.0,grado en ingeniería electrónica industrial y automática,2014.0,True
+120,Javier Bernal Cuadrado,EBEC14,NULL,javyb95@hotmail.com,656679598.0,grado en ingeniería en tecnologías industriales,2013.0,True
+121,Diego Jimenez Ramirez,EBEC14,04/05/1994,diego.jimr@gmail.com,680745343.0,grado en ingeniería en tecnologías industriales,2013.0,True
+122,Ignacio Santiago Morata,EBEC14,09/06/1994,100307101@alumnos.uc3m.es,696246691.0,grado en ingeniería mecánica,2013.0,True
+123,Alvaro Antonio Bermejo Arroyo,TD15,01/11/1994,alvaroabermejo@gmail.com,627063604.0,grado en ingeniería eléctrica,2013.0,True
+124,Noelia Lombardo Gava,EBEC14,01/10/1993,100291973@alumnos.uc3m.es,618147280.0,grado en ingeniería biomédica,2013.0,True
+125,Borja Batres,EBEC14,07/06/1991,borja.batres@gmail.com,687066158.0,grado en ingeniería mecánica,2011.0,True
+127,Álvaro Jiménez,EBEC14,09/09/1991,ajimenezcobo@gmail.com,677396753.0,ingeniería superior industrial,2013.0,True
+128,Silvia Rubio Peregrina,EBEC14,07/07/1993,silvia7793@gmail.com,697812408.0,grado en ingeniería en tecnologías industriales,2010.0,True
+129,Alejandro Blanco,EBEC14,NULL,blancopizarro@gmail.com,646628835.0,grado en ingeniería en tecnologías de telecomunicación,2011.0,True
+130,Carlos Serrano Hernández,EBEC14,NULL,carlos.serher@gmail.com,649319820.0,grado en ingeniería en tecnologías industriales,2011.0,True
+131,Carlos Andres Lijeron Velasquez,EBEC14,15/05/1994,100330643@alumnos.uc3m.es,689401003.0,grado en ingeniería mecánica,2011.0,True
+132,Paula Queipo,EBEC14,10/07/1996,100330434@alumnos.uc3m.es,692396806.0,grado en ingeniería en tecnologías industriales,2014.0,True
+133,Francisco Reyes Guerrón,EBEC14,22/04/1993,100293606@alumnos.uc3m.es,629917720.0,grado en ingeniería en tecnologías de telecomunicación,2014.0,True
+134,Mario Sanz Rodrigo,EBEC14,NULL,m.sanz741@gmail.com,618357495.0,grado en ingeniería en tecnologías de telecomunicación,2011.0,True
+135,Alexis Pomares Pastor,EBEC14,NULL,alexispp95@gmail.com,605923356.0,grado en ingeniería biomédica,2011.0,True
+136,Borja Rodríguez Perojo,EBEC14,18/06/1994,100306186@ALUMNOS.UC3M.ES,699612542.0,grado en ingeniería en tecnologías industriales,2013.0,True
+137,Andres Iwan Glazer,EBEC14,26/01/1989,andres.iwan@gmail.com,677468663.0,ingeniería superior industrial,2012.0,True
+138,Marina Casas,EBEC14,NULL,marina.casas.vi@gmail.com,660166660.0,grado en ingeniería en tecnologías industriales,2010.0,True
+139,Gonzalo Pradillo,EBEC14,13/01/1993,pradillohernandez@gmail.com,628319713.0,grado en ingeniería en tecnologías industriales,2011.0,True
+140,Guillermo Villagrá,EBEC14,28/12/1987,100074851@alumnos.uc3m.es,629863956.0,grado en ingeniería mecánica,2012.0,True
+141,Jimmy Véliz Moreno,EBEC14,31/07/1992,jimmy82_92@hotmail.com,695318841.0,grado en ingeniería mecánica,2011.0,True
+142,Pablo Martin-artajo García,EBEC14,03/01/1996,pablo.martin.artajo@gmail.com,689465605.0,grado en ingeniería en tecnologías industriales,2014.0,True
+143,Alberto Ruiz de Alegría,EBEC14,NULL,100316466@alumnos.uc3m.es,689053795.0,grado en ingeniería en tecnologías industriales,2013.0,True
+144,Bernardo Jiménez Fernández,EBEC14,NULL,bernardo_jimenez@hotmail.com,639847760.0,grado en ingeniería electrónica industrial y automática,2013.0,True
+145,Borja Macicior Pérez,EBEC14,07/05/1994,fborjamp@gmail.com,663577174.0,grado en ingeniería eléctrica,2014.0,True
+146,Bryan Ulises Suin Morocho,EBEC14,NULL,bryansuin@gmail.com,689037197.0,grado en ingeniería mecánica,2013.0,True
+147,Carlos Santiago Hernandez Torres,EBEC14,21/09/1990,100318279@alumnos.uc3m.es,691729094.0,grado en ingeniería biomédica,2013.0,True
+148,Alejandro Díaz,EBEC14,30/09/1991,100284328@alumnos.uc3m.es,646676235.0,grado en ingeniería mecánica,2012.0,True
+149,Abraham Vadillo Morillas,EBEC14,15/09/1995,100318733@alumnos.uc3m.es,626432988.0,grado en ingeniería mecánica,2012.0,True
+150,Oscar Pacheco,EBEC14,04/10/1993,pache3553@hotmail.com,648214547.0,grado en ingeniería en tecnologías industriales,2013.0,True
+151,Jose Daniel Vasquez Mayorga,EBEC14,06/04/1994,100316795@alumnos.uc3m.es,617179028.0,grado en ingeniería mecánica,2011.0,True
+152,Miguel Prieto Lopez,EBEC14,28/09/1993,100292364@alumnos.uc3m.es,692654339.0,grado en ingeniería electrónica industrial y automática,2013.0,True
+153,José González Barroso,EBEC14,NULL,josgomba@hotmail.com,689004291.0,grado en ingeniería informática,2011.0,True
+154,Miguel Angel Muñoz Diaz,EBEC14,29/07/1992,miguelangelmsw@hotmail.com,666822655.0,máster en ingeniería industrial,2014.0,True
+155,Miguel López Díaz,EBEC14,16/01/1993,miguellopezdiaz@gmail.com,610550397.0,grado en ingeniería en tecnologías industriales,2014.0,True
+156,Víctor Sindín García,EBEC14,NULL,victorsindin@gmail.com,635287198.0,grado en ingeniería en tecnologías de telecomunicación,2011.0,True
+157,Jaime Soto Carrera,TD15,22/07/1994,100304861@alumnos.uc3m.es,681111356.0,grado en ingeniería en tecnologías industriales,2012.0,True
+158,Rubén Martín Blasco,EBEC14,29/08/1996,ruben_martin_blasco@hotmail.com,636384194.0,grado en ingeniería mecánica,2012.0,True
+159,Federico Goldfryd Sprukt,EBEC14,13/02/1996,fede-gs@hotmail.com,644410905.0,grado en ingeniería informática,2014.0,True
+160,Lara Lorenzo Regueira,EBEC14,NULL,laramruma@gmail.comCS,622012376.0,grado en ingeniería telemática,2014.0,True
+161,Adrián de la Iglesia Valls,EBEC15,03/05/1996,100329782@alumnos.uc3m.es,916344899.0,grado en ingeniería electrónica industrial y automática,2013.0,True
+162,Raúl Gomez Calzada,EBEC14,NULL,100329834@alumnos.uc3m.es,652848467.0,grado en ingeniería eléctrica,2014.0,True
+163,Francisco Jesús Fructuoso Camacho,EBEC14,03/06/1992,100306360@alumnos.uc3m.es,680686172.0,grado en ingeniería en tecnologías industriales,2014.0,True
+164,Álvaro Muñoz,EBEC14,15/06/1993,100291872@alumnos.uc3m.es,659557391.0,grado en ingeniería electrónica industrial y automática,2011.0,True
+165,Lidia Miguel Telega,EBEC15,02/09/1995,3a06lidia.miguel@gmail.com,633844144.0,grado en ingeniería biomédica,2011.0,True
+166,Chengyi Fu,EBEC15,28/04/1996,chengyi_smith@hotmail.es,625830903.0,grado en ingeniería informática,2013.0,True
+167,Yang Chen,EBEC14,13/03/1995,victoreschen@hotmail.es,684311328.0,grado en ingeniería informática,2014.0,True
+168,Hasier Goitia,EBEC15,29/06/1994,hasiergoitia@gmail.com,608164959.0,grado en ingeniería aeroespacial,2014.0,True
+169,Carlos Javier Pallás Puente,EBEC14,NULL,100329681@alumnos.uc3m.es,633613779.0,grado en ingeniería electrónica industrial y automática,2013.0,True
+170,Santiago Morales Bernal,EBEC14,04/09/1995,santimb55@gmail.com,626775001.0,grado de ingeniería de sistemas audiovisuales,2014.0,True
+171,José Aranda García,EBEC14,18/01/1995,100315270@alumnos.uc3m.es,636073632.0,grado en ingeniería mecánica,2013.0,True
+172,Raúl Berganza Gómez,EBEC14,NULL,raul.berganza.gomez.96@gmail.com,648130227.0,grado en ingeniería en tecnologías industriales,2013.0,True
+173,Sara Sanchez,EBEC14,25/05/1991,100277566@alumnos.uc3m.es,646258301.0,grado en ingeniería en tecnologías industriales,2014.0,True
+174,Yago Uzquiano,EBEC14,NULL,yagouzquiano@gmail.com,616322060.0,grado en ingeniería en tecnologías industriales,2011.0,True
+175,Pedro Borja Muñoz González,EBEC14,27/04/1994,100304238@alumnos.uc3m.es,649703690.0,grado en ingeniería en tecnologías de telecomunicación,2011.0,True
+176,Jorge Frias Galan,EBEC14,NULL,100317118@alumnos.uc3m.es,689164616.0,grado en ingeniería informática,2012.0,True
+177,Ignacio Rodriguez-solano Aparicio,EBEC14,16/01/1996,nacho9696@gmail.com,637800831.0,grado en ingeniería electrónica industrial y automática,2013.0,True
+178,Ángel Fernández Barroso,EBEC14,NULL,100317143@alumnos.uc3m.es,600896037.0,grado en ingeniería electrónica industrial y automática,2014.0,True
+179,Laura Bravo,EBEC14,01/09/1994,laura_bravo94@hotmail.com,689121207.0,grado en ingeniería biomédica,2012.0,True
+180,Borja Fernandez-baldor Fraile,EBEC14,10/11/1995,borjabaldor@gmail.com,696154987.0,grado en ingeniería mecánica,2012.0,True
+181,Dragos Nedelcu,SC14,NULL,NULL,-1.0,grado en ingeniería aeroespacial,2013.0,True
+182,Raquel Mondelo García,SC14,01/03/1991,raquel_m91@hotmail.com,677135479.0,ingeniería superior industrial,2012.0,True
+183,Jessica Paez Bonilla,SC14,10/06/1992,jessicajp1006@gmail.com,644455449.0,grado en ingeniería electrónica industrial y automática,2011.0,True
+184,Victor Rodriguez,SC14,01/04/1990,viypam@gmail.com,636524214.0,grado en ingeniería eléctrica,2011.0,True
+185,Alvaro Girela,SC14,NULL,NULL,-1.0,grado en ingeniería en tecnologías industriales,2011.0,True
+186,Raul Jimenez Espada,SC14,NULL,NULL,-1.0,grado en ingeniería mecánica,2012.0,True
+187,Alba María Pozo,SC14,29/11/1988,albampozoferreira@gmail.com,649835169.0,ingeniería superior industrial,2012.0,True
+188,Hector Grande,SC14,12/04/1993,hectorgraez@gmail.com,675833238.0,grado en ingeniería telemática,2010.0,True
+189,Francisco Pliego Ruiz,SC14,19/12/1993,franczesc@gmail.com,644419002.0,grado en ingeniería mecánica,2011.0,True
+190,Oscar Hoyas,SC14,27/05/1991,hoyas.oscar@gmail.com,646926365.0,grado en ingeniería en tecnologías industriales,2011.0,True
+191,Celia Gonzalez,SC14,NULL,NULL,-1.0,grado en ingeniería aeroespacial,2011.0,True
+192,David García,SC14,NULL,miemailito@gmail.com,-1.0,grado en ingeniería informática,-1.0,True
+193,Icíar Civantos Gómez,SC14,26/05/1992,iziar_cg@hotmail.com,655931851.0,grado en ingeniería en tecnologías de telecomunicación,2011.0,True
+194,Guillermo Huguet Rodríguez,SC14,NULL,NULL,-1.0,grado en ingeniería aeroespacial,2011.0,True
+195,Alejandro Simó,SC14,NULL,NULL,-1.0,grado en ingeniería en tecnologías industriales,2012.0,True
+196,Luis Arevalo,SC14,NULL,NULL,-1.0,grado en ingeniería aeroespacial,2011.0,True
+197,Paul Almasan,SC14,NULL,NULL,-1.0,grado en ingeniería informática,-1.0,True
+198,Guillermo Girón,SC14,NULL,giron.guillermo@outlook.com,669556904.0,grado en ingeniería en tecnologías industriales,-1.0,True
+199,Sara Ramos Colmenarejo,SC14,NULL,NULL,-1.0,grado en ingeniería aeroespacial,2011.0,True
+200,Daniel Ortega Padilla,SC14,NULL,NULL,-1.0,grado en ingeniería electrónica industrial y automática,-1.0,True
+201,Vicente Bueso Bordils,SC14,27/07/1989,NULL,-1.0,grado en ingeniería en tecnologías industriales,2009.0,True
+202,Yaiza Rodriguez,SC14,09/10/1995,vibuebor@etsii.upv.es,652917872.0,grado en ingeniería en tecnologías industriales,2010.0,True
+203,Diego Prieto Palacín,SC14,17/06/1993,diego.prieto93@hotmail.es,653214392.0,grado en ingeniería mecánica,2013.0,True
+204,Alberto Gallego,EBEC15,11/03/1997,100346104@alumnos.uc3m.es,626419672.0,Grado en Ingeniería Informática,2015.0,True
+205,Pablo Cañas,EBEC15,05/27/1997,100346190@alumnos.uc3m.es,616805794.0,Grado en Ingeniería Informática,2015.0,True
+206,Guillermo Escobero,EBEC15,08/05/1997,100346060@alumnos.uc3m.es,628761525.0,Grado en Ingeniería Informática,2015.0,True
+207,Jorge Chércoles,EBEC15,07/05/1997,100346061@alumnos.uce3m.es,608167726.0,Grado en Ingeniería Informática,2015.0,True
+208,Miguel Xoel García Balsa,EBEC15,10/08/1993,miguel.xoel@gmail.com,627269063.0,Grado en Ingeniería Informática,2012.0,True
+209,Cristina Martínez González,EBEC15,26/08/1995,100329797@alumnos.uc3m.es,617892802.0,Grado en Ingeniería Aeroespacial,2013.0,True
+210,Daniel Moreno Manzano,EBEC15,26/05/1993,100290708@alumnos.uc3m.es,664366086.0,Grado en Ingeniería en Tecologías de Telecomunicación,2012.0,True
+211,Esther Fuentes Blas,EBEC15,25/04/1994,100303761@alumnos.uc3m.es,606511399.0,Grado en Ingeniería Biomédica,2012.0,True
+212,Paula Queipo,EBEC15,10/06/1996,100330434@alumnos.uc3m.es,692396806.0,Grado en Ingeniería en Tecnologías Industriales,2014.0,True
+213,Erik Carlos Medina Chanca,EBEC15,12/10/1985,100061929@alumnos.uc3m.es,682407731.0,Grado en Ingeniería de Sistemas de Comunicaciones,2012.0,True
+215,Victor Borja Guimera,EBEC15,31/07/1991,100276709@alumnos.uc3m.es,687064245.0,grado en ingeniería en tecnologías industriales,2012.0,True
+216,Carolina Anadón Castillo,EBEC15,01/10/1993,100292280@alumnos.uc3m.es,679832907.0,grado en ingeniería en tecnologías industriales,2013.0,True
+217,Fernando Guedán,EBEC15,26/10/1994,100317188@alumnos.uc3m.es,697655650.0,grado en ingeniería en tecnologías industriales,2011.0,True
+218,Jose Martinez Gomez,EBEC15,17/04/1995,100317146@alumnos.uc3m.es,649801548.0,grado en ingeniería informática,2013.0,True
+219,Alberto Gonzalez Gomez,EBEC15,24/12/1995,alberto.gonzalez.gomez@hotmail.com,679429239.0,grado en ingeniería informática,2013.0,True
+220,Javier Moreno Calvo,EBEC15,25/05/1991,javimcmr@gmail.com,601000221.0,grado en ingeniería en tecnologías industriales,2013.0,True
+221,Fernanda Zamora Hernández,EBEC15,29/05/1995,100317623@alumnos.uc3m.es,608056129.0,grado en ingeniería en tecnologías industriales,2012.0,True
+222,Ignacio Casares Alaez,EBEC15,20/09/1995,100315985@alumnos.uc3m.es,680278552.0,grado en ingeniería en tecnologías industriales,2013.0,True
+223,Lauro Bravar,EBEC15,19/04/1994,bravar.lauro@gmail.com,679448134.0,grado en ingeniería informática,2013.0,True
+224,Raúl Hernández Sánchez,EBEC15,01/06/1995,raul.h.sanchez@alumnos.uc3m.es,638471179.0,grado en ingeniería en tecnologías industriales,2013.0,True
+225,Guillermo Fernández,EBEC15,18/04/1995,guillermofdzgil@gmail.com,671417561.0,grado en ingeniería en tecnologías industriales,2013.0,True
+226,Pablo Lechuga,EBEC15,15/04/1995,plechugacapracci@gmail.com,608834441.0,grado en ingeniería aeroespacial,2013.0,True
+227,Pedro Lázaro,EBEC15,22/06/1995,pedrolazarosanchez@gmail.com,619415673.0,grado en ingeniería en tecnologías industriales,2013.0,True
+228,Claudio Fernández de Heredia Pérez de Zabalza,EBEC15,29/09/1995,cfhpz95@gmail.com,630018372.0,grado en ingeniería aeroespacial,2013.0,True
+229,Adrián Rodríguez Grillo,EBEC15,23/06/1995,100316457@alumnos.uc3m.es,648764022.0,grado en ingeniería informática,2014.0,True
+230,Adelaida de las Nieves Fernandez Velasco,EBEC15,05/08/1991,adelaidafv@gmail.com,638931212.0,grado en ingeniería en tecnologías industriales,2013.0,True
+231,Álvaro Tanarro,EBEC15,29/06/1994,100303832@alumnos.uc3m.es,616791910.0,grado en ingeniería aeroespacial,2012.0,True
+232,Roberto Flores,EBEC15,17/07/1994,100303774@alumnos.uc3m.es,691353030.0,grado en ingeniería informática,2012.0,True
+233,Alberto Saiz Escudero,EBEC15,10/09/1997,albertito_sector3@hotmail.com,916822065.0,grado en ingeniería de sistemas de comunicaciones,2012.0,True
+234,Gabriel González,EBEC15,28/12/1994,100303828@alumnos.uc3m.es,644316455.0,grado en ingeniería aeroespacial,2015.0,True
+235,Víctor Florindo Moncada,EBEC15,01/03/1995,100317295@alumnos.uc3m.es,635808219.0,grado en ingeniería en tecnologías industriales,2012.0,True
+236,Anaëlle Gordillo Dagallier,EBEC15,25/04/1996,100329605@alumnos.uc3m.es,638224231.0,grado en ingeniería electrónica industrial y automática,2013.0,True
+237,David Puertas Ramírez,EBEC15,17/10/1996,100329775@alumnos.uc3m.es,663338517.0,grado en ingeniería electrónica industrial y automática,2014.0,True
+238,Irene Gordillo,EBEC15,07/04/1995,100316037@alumnos.uc3m,649547322.0,grado en ingeniería informática,2014.0,True
+239,Andrea Grande,EBEC15,04/08/1993,agrandedios@gmail.com,675349126.0,master in aeronautical engineering,2013.0,True
+240,Nereida Agüera,EBEC15,01/04/1993,100293261@alumnos.uc3m.es,647651457.0,máster en ingeniería aeronáutica,2015.0,True
+241,Daniel Expósito,EBEC15,07/10/1993,100291939@alumnos.uc3m.es,697428718.0,master in aeronautical engineer,2015.0,True
+242,David Marcos López,EBEC15,13/02/1992,100284110@alumnos.uc3m.es,680824331.0,master en ingenieria industrial,2015.0,True
+243,Ricardo Camacho Calvo,EBEC15,28/12/1997,ricacalvo281297@gmail.com,619574152.0,grado en ingeniería electrónica industrial y automática,2014.0,True
+244,Alvaro Romero Diaz,EBEC15,11/07/1995,100316900@alumnos.ucm3.es,685741404.0,grado en ingeniería informática,2015.0,True
+246,Rubén Hurtado,EBEC15,27/05/1995,ruben1995.hp@gmail.com,693476951.0,grado en ingeniería en tecnologías industriales,2014.0,True
+247,Tamara Casillas Gil,EBEC15,28/05/1993,tamara.casillas.93@gmail.com,656187983.0,máster en ingeniería aeronautica,2013.0,True
+248,Xiao Roberto Xu Xu,EBEC15,29/05/1997,100349524@alumnos.uc3m.es,644426279.0,grado en ingeniería electrónica industrial y automática,2015.0,True
+249,Alejandro García,EBEC15,22/11/1996,alexgargo96@gmail.com,663132828.0,grado en ingeniería mecánica,2015.0,True
+250,Clara Ramón Lozano,EBEC15,29/03/1995,clara.ramon@alumnos.uc3m.es,684129187.0,grado en ingeniería biomédica,2014.0,True
+251,Carmen García,EBEC15,02/12/1997,cgcabetas@gmail.com,615163191.0,grado en ingeniería aeroespacial,2013.0,True
+252,Raúl Berganza Gómez,EBEC15,21/08/1996,brgraul@gmail.com,648130227.0,grado en ingeniería en tecnologías industriales,2015.0,True
+253,Ernesto García,EBEC15,30/04/1996,ernestogc_35@hotmail.com,691221211.0,grado en ingeniería mecánica,2014.0,True
+254,Gonzalo Temprano,EBEC15,17/09/1997,g.temprarias@gmail.com,644241600.0,grado en ingeniería aeroespacial,2014.0,True
+255,Gonzalo Lorenzo,EBEC15,05/05/1997,100345693@alumnos.uc3m.es,625330834.0,grado en ingeniería aeroespacial,2015.0,True
+256,Pedro José Jiménez,EBEC15,16/07/1996,pedro96jimenez@gmail.com,699037889.0,grado en ingeniería aeroespacial,2015.0,True
+257,Alba Gutiérrez,EBEC15,08/05/1995,100315952@alumnos.uc3m.es,616212486.0,grado en ingeniería biomédica,2014.0,True
+258,Javier Vela,EBEC15,24/05/1997,javi_vela_97@hotmail.com,645090335.0,grado en ingeniería aeroespacial,2013.0,True
+259,Laura Monjas,EBEC15,11/09/1995,100316270@alumnos.uc3m.es,608572252.0,grado en ingeniería biomédica,2015.0,True
+260,Ignacio García Carretero,EBEC15,22/11/1993,nacho.garcia.nga@gmail.com,617839245.0,grado en ingeniería eléctrica,2013.0,True
+261,Ignacio de la Hera Fernández,EBEC15,08/07/1995,idelahera8@gmail.com,629216627.0,grado en ingeniería aeroespacial,2014.0,True
+262,Ignacio Montesino,EBEC15,14/01/1996,ignamonte@hotmail.com,655447335.0,grado en ingeniería en tecnologías industriales,2013.0,True
+263,Juan Fernández Pérez,EBEC15,18/04/1993,100291826@alumnos.uc3m.es,691433623.0,máster,2014.0,True
+264,Arturo López Fernández,EBEC15,17/01/1996,artu.lope.10@gmail.com,918461719.0,grado en ingeniería en tecnologías industriales,2015.0,True
+265,Jose Antonio Donaire Alonso,EBEC15,04/04/1996,jose.donaire@hotmail.com,912862122.0,grado en ingeniería en tecnologías industriales,2014.0,True
+266,Gonzalo Montesino Valle,EBEC15,13/09/1997,100349455@alumnos.uc3m.es,633673377.0,grado en ingeniería aeroespacial,2014.0,True
+267,Daniel García,EBEC15,16/01/1997,100345841@alumnos.uc3m.es,660603523.0,grado en ingeniería electrónica industrial y automática,2015.0,True
+268,Maria Eugenia Lago,EBEC15,04/07/1995,100318646@alumnos.uc3m.es,652318710.0,grado en ingeniería biomédica,2015.0,True
+269,Pablo Bustamante,EBEC15,08/07/1997,100346016@alumnos.uc3m.es,699651707.0,grado en ingeniería electrónica industrial y automática,2013.0,True
+270,Álvaro Muñoz Mauricio,EBEC15,08/08/1996,amunozmauricio@gmail.com,608023552.0,grado en ingeniería en tecnologías industriales,2015.0,True
+271,Andrea de la Sen,EBEC15,28/11/1997,andreadelasen@orange.es,653024388.0,grado en ingeniería aeroespacial,2014.0,True
+272,Jorge Maza Pallarés,EBEC15,14/11/1993,100293337@alumnos.uc3m.es,695856263.0,grado en ingeniería aeroespacial,2015.0,True
+273,Fermín Mallor Franco,EBEC15,07/10/1995,100318155@alumnos.uc3m.es,618636744.0,grado en ingeniería aeroespacial,2012.0,True
+274,Sergio Romero Salas,EBEC15,16/12/1993,100291765@alumnos.uc3m.es,650184148.0,master in ingeniería industrial,2013.0,True
+275,Sergio Tolosa Nava,EBEC15,16/11/1993,100291695@alumnos.uc3m.es,627778960.0,grado en ingeniería en tecnologías industriales,2015.0,True
+276,Javier Sanz Gómez,EBEC15,20/06/1993,100293115@alumnos.uc3m.es,600243693.0,grado en ingeniería en tecnologías industriales,2012.0,True
+277,Javier Dominguez,EBEC15,07/08/1997,100345828@alumnos.uc3m.es,630247916.0,grado en ingeniería electrónica industrial y automática,2012.0,True
+278,Narciso Jesús Soto Picazo,EBEC15,11/08/1997,100345728@alumnos.uc3m.es,671739028.0,grado en ingeniería aeroespacial,2015.0,True
+279,Javier Canales Urizal,EBEC15,19/05/1997,100345958@alumnos.uc3m.es,606654870.0,grado en ingeniería electrónica industrial y automática,2015.0,True
+280,Diego Monreal,EBEC15,31/01/1997,diego.mccm@gmail.com,630925318.0,grado en ingeniería aeroespacial,2015.0,True
+281,Ignacio de la Fuente,EBEC15,18/06/1997,idelafuentef@gmail.com,618090917.0,grado en ingeniería aeroespacial,2015.0,True
+282,Daniel Cerezo Torrejón,EBEC15,03/10/1995,daniel.c.torrejon@alumnos.uc3m.es,651531964.0,grado en ingeniería en tecnologías de telecomunicación,2015.0,True
+283,Álvaro Castillo Monge,EBEC15,15/04/1997,100345834@alumnos.uc3m.es,690994138.0,grado en ingeniería electrónica industrial y automática,2013.0,True
+284,Carlos Fernández del Cerro,EBEC15,19/11/1995,100317954@alumnos.uc3m.es,651515806.0,grado en ingeniería en tecnologías de telecomunicación,2015.0,True
+285,Luis García Arranz,EBEC15,17/02/1994,luisgarciaarranz.lg@gmail.com,646952748.0,grado en ingeniería informática,2013.0,True
+286,Fernando Hernández Gant,EBEC15,03/03/1995,100318091@alumnos.uc3m.es,655485935.0,grado en ingeniería en tecnologías de telecomunicación,2013.0,True
+287,George Sebastian Roma,EBEC15,19/10/1995,1595george@gmail.com,663747814.0,grado en ingeniería electrónica industrial y automática,2013.0,True
+288,Miguel Muñoz,EBEC15,17/03/1997,miguelxs751@gmail.com,622629909.0,grado en ingeniería electrónica industrial y automática,2013.0,True
+289,Elena Figal,EBEC15,31/07/1995,elena.villafrancamor2@gmail.com,622169267.0,grado en ingeniería biomédica,2015.0,True
+290,Luis Trapero Moreno,EBEC15,07/09/1995,luistraperomoreno@gmail.com,913770024.0,grado en ingeniería electrónica industrial y automática,2013.0,True
+291,Bartlomiej Kokot,EBEC15,18/06/1997,bartekokot@hotmail.com,648456671.0,grado en ingeniería aeroespacial,2013.0,True
+292,Daniel Oliva del Moral,EBEC15,02/02/1991,100315224@alumnos.uc3m.es,620384796.0,grado en ingeniería electrónica industrial y automática,2015.0,True
+293,Bárbara Sánchez,EBEC15,23/07/1996,100329721@alumnos.uc3m.es,680884787.0,grado en ingeniería electrónica industrial y automática,2013.0,True
+294,Miguel Edo,EBEC15,13/01/1995,100317356@alumnos.uc3m.es,653957440.0,grado en ingeniería en tecnologías industriales,2014.0,True
+295,Claudiu Eugen Bota,EBEC15,19/06/1995,100318138@alumnos.uc3m.es,662370418.0,grado en ingeniería en tecnologías de telecomunicación,2013.0,True
+297,Juan Camilo Soto Triviño,EBEC15,29/11/1993,camilosotto@gmail.com,692852371.0,grado en ingeniería electrónica industrial y automática,2014.0,True
+298,Raquel Ramos,EBEC15,17/10/1996,100329636@alumnos.uc3m.es,695747148.0,grado en ingeniería electrónica industrial y automática,2013.0,True
+299,Bruno Batalla,EBEC15,25/09/1995,100330233@alumnos.uc3m.es,670911857.0,grado en ingeniería en tecnologías industriales,2014.0,True
+300,Daniel Cárdenas del Hoyo,EBEC15,20/02/1995,cardenas_2002@hotmail.com,616198241.0,grado en ingeniería en tecnologías industriales,2014.0,True
+302,Adrian Aguado,EBEC15,26/10/1994,100305825@alumnos.uc3m.es,693211269.0,grado en ingeniería en tecnologías industriales,2015.0,True
+303,Ignacio Gil,EBEC15,04/01/1995,100329759@alumnos.uc3m.es,649041065.0,grado en ingeniería en tecnologías industriales,2013.0,True
+304,Jorge Bustos,EBEC15,02/09/1995,jorgebustossanchez@gmail.com,608787454.0,grado en ingeniería en tecnologías industriales,2014.0,True
+305,Noelia Fernández de la Puebla del Olmo,EBEC15,23/06/1997,noelia2397@hotmail.es,638322667.0,grado en ingeniería informática,2013.0,True
+306,Leonardo Frutos Mancha,EBEC15,01/04/1995,leofrutos14@gmail.com,677047649.0,grado en ingeniería en tecnologías industriales,2015.0,True
+307,Rodrigo Gonzalez,EBEC15,15/07/1995,100338957@alumnos.uc3m.es,669325179.0,grado en ingeniería en tecnologías industriales,2013.0,True
+308,Víctor Corrochano Garcia,EBEC15,06/05/1996,100329735@alumnos.uc3m.es,672482664.0,grado en ingeniería electrónica industrial y automática,2014.0,True
+309,Alberto García Arroba,EBEC15,24/03/1996,100330363@alumnos.uc3m.es,626761810.0,grado en ingeniería informática,2014.0,True
+310,Juan Ignacio del Río Martín,EBEC15,10/06/1995,100316044@alumnos.uc3m.es,667357124.0,grado en ingeniería en tecnologías industriales,2014.0,True
+311,Julián Feijoó Basagoiti,EBEC15,22/06/1995,juli_basa8@hotmail.com,696062324.0,grado en ingeniería en tecnologías industriales,2013.0,True
+312,Ignacio Álvarez,EBEC15,04/05/1995,100315484@alumnos.uc3m.es,90855130.0,grado en ingeniería en tecnologías industriales,2013.0,True
+313,Javier Delgado Donoso,EBEC15,09/11/1995,100316581@alumnos.uc3m.es,603329409.0,grado en ingeniería en tecnologías industriales,2013.0,True
+314,Pedro Ruiz,EBEC15,19/08/1997,pedriker97@gmail.com,649303945.0,grado en ingeniería electrónica industrial y automática,2013.0,True
+315,Elena Martínez,EBEC15,02/11/1994,100304008@alumnos.uc3m.es,671475756.0,grado en ingeniería informática,2015.0,True
+316,Javier Colón Diez,EBEC15,10/06/1995,100316830@alumnos.uc3m.es,651165273.0,grado en ingeniería en tecnologías industriales,2012.0,True
+317,Jorge Pulido Lopez,EBEC15,31/07/1997,jorge.pulido@hotmail.com,649896212.0,grado en ingeniería electrónica industrial y automática,2013.0,True
+318,Diego Romero Martín,EBEC15,30/10/1997,diromasati97@hotmail.com,690333517.0,grado en ingeniería electrónica industrial y automática,2015.0,True
+319,Antonio Cerrato Garrido,EBEC15,17/03/1997,100345938@alumnos.uc3m.es,648713410.0,grado en ingeniería en tecnologías industriales,2015.0,True
+320,Daniel Mateos Franco,EBEC15,23/02/1997,dmateos.franco@gmail.com,664202695.0,grado en ingeniería en tecnologías industriales,2015.0,True
+321,Mario Álvarez Blanco,EBEC15,17/06/1995,alvarezblancomario@gmail.com,636866146.0,grado en ingeniería en tecnologías industriales,2015.0,True
+322,Alejandro Al Maullem Jarones,EBEC15,03/12/1996,almaullem@gmail.com,616113644.0,grado en ingeniería informática,2013.0,True
+324,Javier Osorio Martínez,EBEC15,08/02/1992,javier9275@gmail.com,603489875.0,máster universitario en ingeniería industrial,2014.0,True
+325,Rafael José Hermida de la Haba,EBEC15,19/02/1992,100324385@alumnos.uc3m.es,648258878.0,máster universitario en ingeniería industrial,2014.0,True
+326,David Berenguer,EBEC15,17/03/1997,100345935@alumnos.uc3m.es,651522702.0,grado en ingeniería electrónica industrial y automática,2014.0,True
+327,Diego Sánchez,EBEC15,21/01/1993,100291748@alumnos.uc3m.es,616823825.0,grado en ingeniería en tecologías de telecomunicación,2015.0,True
+329,Almudena Sánchez García,BESTIE,13/08/1991,almudenasan.garcia@gmail.com,627810490.0,grado en ingeniería en tecnologías industriales,2015.0,True
+330,Ángel Pablo García Gutiérrez,BESTIE,06/05/1988,angelpablogarcia@gmail.com,610745278.0,ingeniería superior industrial,2010.0,True
+331,Antonio Relaño Pastor,BESTIE,06/01/1990,arelanop@gmail.com,618150673.0,ingeniería superior industrial,2009.0,True
+332,Arturo Arranz Mateo,BESTIE,24/07/1991,arranz.91@gmail.com,658640440.0,grado en ingeniería electrónica industrial y automática,2009.0,True
+333,Carolina Calvo Pérez,BESTIE,03/04/1993,carolinacp93@gmail.com,655649529.0,grado en ingeniería en tecnologías industriales,2010.0,True
+334,Celia Jalon Manzano,BESTIE,12/04/1992,celiajalon@gmail.com,697266568.0,grado en ingeniería en tecnologías industriales,2011.0,True
+335,Celia Ortega Gómez,BESTIE,17/01/1994,celiaortegamez@gmail.com,637947242.0,grado en ingeniería biomédica,2010.0,True
+336,Cristina Sobrino Verde,BESTIE,12/07/1993,cristina.sobrinoverde@gmail.com,679692389.0,grado en ingeniería en tecnologías industriales,2011.0,True
+337,Daniel Iglesias,BESTIE,28/12/1987,d.igles.fdez@gmail.com,654266914.0,ingeniería superior industrial,2011.0,True
+338,Daniel Valle Zuazu,BESTIE,09/01/1991,davazu9@gmail.com,620325336.0,grado en ingeniería en tecnologías industriales,2009.0,True
+339,David Bazaga Garcia,BESTIE,09/04/1994,daav.baaz@gmail.com,630040438.0,grado en ingeniería biomédica,2010.0,True
+340,Diana-ioana Bocancea,BESTIE,04/05/1992,diana.i.bocancea@gmail.com,619344275.0,grado en ingeniería biomédica,2011.0,True
+341,Elena Teresa Gutiérrez Burguillo,BESTIE,02/09/1992,elenagubur@gmail.com,618275037.0,grado en ingeniería electrónica industrial y automática,2010.0,True
+342,Enrique Pérez Hernando,BESTIE,03/05/1990,enriqueperezhernando@gmail.com,637007780.0,ingeniería superior industrial,2010.0,True
+343,Héctor Hernández Gómez,BESTIE,06/12/1987,hectorhg87@gmail.com,661373619.0,grado en ingeniería informática,2009.0,True
+344,Ignacio Zubieta Ochoa,BESTIE,13/11/1992,ignaciozubietaochoa@gmail.com,628867736.0,grado en ingeniería en tecnologías industriales,2009.0,True
+345,Inés Goicoechea,BESTIE,29/05/1990,ines.goicoechea@gmail.com,630170597.0,grado en ingeniería electrónica industrial y automática,2010.0,True
+346,Javier Heras,BESTIE,04/05/1989,javierherasm@gmail.com,625794067.0,máster en ingeniería industrial,2010.0,True
+347,Jesús Menéndez-morán Pazos,BESTIE,10/03/1992,jesus.menendezmoran@gmail.com,660085210.0,grado en ingeniería electrónica industrial y automática,2009.0,True
+348,Laura Córdova González,BESTIE,22/01/1989,laura.corglez@gmail.com,636550046.0,ingeniería superior industrial,2010.0,True
+349,Lisset Rocio Pilco Vera,BESTIE,05/09/1990,lisset.vera.5@gmail.com,656612048.0,ingeniería superior industrial,2009.0,True
+350,Mario Bañares Colastra,BESTIE,26/04/1991,mariobac91@gmail.com,664767333.0,ingeniería superior de telecomunicaciones,2009.0,True
+351,Ricardo Lopez Martinez,BESTIE,04/04/1987,ricardo.l.mdg@gmail.com,655315084.0,ingeniería superior industrial,2009.0,True
+352,Rubén Valseca Parra,BESTIE,21/01/1990,rubn.vp@gmail.com,659620427.0,ingeniería superior de telecomunicaciones,2009.0,True
+353,Sandra Cubero,BESTIE,12/11/1989,sandracuberor@gmail.com,654426019.0,grado en ingeniería telemática,2009.0,True
+354,Sergio Pérez García-tenorio,BESTIE,10/10/1991,sergioperezgtenorio@gmail.com,662157589.0,grado en ingeniería electrónica industrial y automática,2009.0,True
+355,Javier Yeray Berlinches Ayala,TD15,26/08/1995,javierberlinches95@gmail.com,651841735.0,grado en ingeniería mecánica,2010.0,True
+356,Eduardo Merino González,TD15,26/01/1993,100290893@alumnos.uc3m.es,658150644.0,grado en ingeniería en tecnologías industriales,2013.0,True
+357,Marta Guerrero Merino,TD15,06/07/1993,mguerreromt@gmail.com,649102166.0,grado en ingeniería en tecnologías industriales,2011.0,True
+358,Andrés Prieto Buznego,TD15,03/10/1993,andres93pb@gmail.com,655796445.0,grado en ingeniería en tecnologías industriales,2011.0,True
+359,Marta Delgado Lopez,TD15,19/09/1994,marta_dl_55@hotmail.com,660186472.0,grado en ingeniería telemática,2011.0,True
+360,Coral Camarero Lope,TD15,21/03/1988,coralcl.88@gmail.com,660065208.0,ingeniería superior industrial,2012.0,True
+361,Mikel Álvarez Rua,TD15,29/09/1996,100329644@alumnos.uc3m.es,657718740.0,grado en ingeniería aeroespacial,2010.0,True
+362,Anna Libey,TD15,12/12/1994,100336481@alumnos.uc3m.es,634782552.0,columbia university 'grado en ingeniería medioambiental,2014.0,True
+363,Elena Tello Peña,TD15,19/07/1996,100329599@alumnos.uc3m.es,678011867.0,grado en ingeniería aeroespacial,2013.0,True
+364,Nuño Juan García Ramos,TD15,28/09/1992,100283391@alumnos.uc3m.es,627886936.0,grado en ingeniería en tecnologías industriales,2014.0,True
+366,Jaime Gomez Gallego,TD15,28/01/1993,jgomegal@gmail.com,697769351.0,grado en ingeniería en tecnologías industriales,2011.0,True
+367,Manuel Urbano Rodríguez,TD15,27/10/1996,100329615@alumnos.uc3m.es,658369053.0,grado en ingeniería aeroespacial,2011.0,True
+368,Elena Odriozola Olavarria,TD15,24/04/1996,100329572@alumnos.uc3m.es,678105157.0,grado en ingeniería aeroespacial,2014.0,True
+369,Diego Rodríguez Aznar,TD15,01/04/1996,100330700@alumnos.uc3m.es,657870663.0,grado en ingeniería en tecnologías industriales,2014.0,True
+370,Jaime María Alesanco Solís,TD15,27/01/1996,100330343@alumnos.uc3m.es,651493235.0,grado en ingeniería en tecnologías industriales,2014.0,True
+371,Francisco Javier del Álamo,TD15,13/10/1988,javialamo+ttd@gmail.com,638264877.0,grado en ingeniería electrónica industrial y automática,2014.0,True
+372,Daniel San JuliÁn MuÑoz,TD15,01/03/2015,danisanju92@gmail.com,615575403.0,grado en ingeniería en tecnologías industriales,2011.0,True
+373,Susana Mª Urdiales Monje,TD15,27/09/1995,susanaurdialesmonje.95@gmail.com,616069544.0,grado en ingeniería en tecnologías de telecomunicación,2014.0,True
+374,Laura Librero Mora,TD15,06/05/1995,lauralaura5465@gmail.com,638473820.0,grado en ingeniería en tecnologías de telecomunicación,2013.0,True
+375,Laura del Barrio Diaz,TD15,10/10/1995,laura.del.barrio.diaz@gmail.com,686765940.0,grado en ingeniería en tecnologías de telecomunicación,2013.0,True
+376,María Cuadrado de Marcos,TD15,02/02/1995,maricu.95@gmail.com,635196960.0,grado en ingeniería en tecnologías de telecomunicación,2013.0,True
+377,Sergio Montes Redondo,TD15,26/04/1992,100284705@alumnos.uc3m.es,622928686.0,grado en ingeniería en tecnologías industriales,2013.0,True
+378,Elena López Gil,TD15,07/04/1995,100317510@alumnos.uc3m.es,656560209.0,grado en ingeniería en tecnologías de telecomunicación,2012.0,True
+379,Ana Crespo Atienza,TD15,02/04/1992,anatrustic0809@gmail.com,662449056.0,grado en ingeniería en tecnologías industriales,2013.0,True
+380,Jon Arana Echarri,TD15,14/02/1996,100330151@alumnos.uc3m.es,648711331.0,grado en ingeniería en tecnologías industriales,2012.0,True
+381,Guillermo Huguet Rodriguez,TD15,05/03/1993,100292738@alumnos.uc3m.es,645789199.0,grado en ingeniería aeroespacial,2014.0,True
+382,Carlos Irisarri,TD15,08/11/1995,100316808@alumnos.uc3m.es,669533852.0,grado en ingeniería biomédica,2011.0,True
+383,Ana María,TD15,12/10/1995,100317472@alumnos.uc3m.es,608059340.0,grado en ingeniería biomédica,2013.0,True
+384,Javier Waldo Delgado Hernández,EBEC15,14/11/1995,javierwaldodelgado@gmail.com,608762106.0,Grado en Ingeniería Mecánica,2015.0,True
